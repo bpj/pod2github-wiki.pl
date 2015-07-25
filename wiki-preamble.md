@@ -1,9 +1,8 @@
-**Welcome to the bpj-pandoc-scripts wiki!**
+**Welcome to the repository wiki!**
 
-The pages contain documentation for (some of) the scripts in the [`scripts` directory](http://git.io/vLX3n).
+The pages contain documentation for (some of) the scripts in the [repository](url/of/the/repo).
 
-The scripts are all written in Perl, and all are related to [pandoc](https://github.com/jgm/pandoc)
-in one way or another.  You may want to read the abstracts in the [README](http://git.io/vqNDt).
+You may want to read the abstracts in the [README](url/of/the/readme).
 
 
 
