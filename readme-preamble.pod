@@ -11,10 +11,8 @@ C<< DESCRIPTION >> section of the Pod documentation of each script, or
 if there was no such paragraph inserting a note that the documentation
 is still to be written.
 
-The order is strictly ASCIIbetical, so no discrimination is made
-between filters and other scripts. There should also be copies of
-the Pod documentation for each script
-L<< in the repository wiki|url/to/your/wiki >>.
-Both the list and the documentation on
-the wiki should generally be updated as I make changes.
+There should also be copies of the Pod documentation for each
+script L<< in the repository wiki|url/to/your/wiki >>. Both the
+list and the documentation on the wiki should generally be
+updated as I make changes.
 
